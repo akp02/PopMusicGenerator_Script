@@ -1,3 +1,12 @@
+This is my attempt at repurposing this research paper for production of keyboard, guitar, and drum tunes.
+
+---Implementation for guitar is around 90% complete.
+
+ - I am currently learning the frameworks and methodologies required for drum and bass guitar production.
+
+
+-----------------------------------------
+
 # REMI
 Authors: [Yu-Siang Huang](https://remyhuang.github.io/), [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/)
 
